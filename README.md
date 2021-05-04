@@ -1,6 +1,6 @@
 # i_am_rich
 
-Learning [Angela Yu's course](https://udemy.com/course/flutter-bootcamp-with-dart) on [Flutter](flutter.dev) to create i_am_rich app.
+Learning [Angela Yu's course](https://udemy.com/course/flutter-bootcamp-with-dart) on [Flutter](https://flutter.dev) to create i_am_rich app.
 
 ## Install/Run
 
