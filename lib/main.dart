@@ -13,8 +13,9 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage(
-                'https://www.hdnicewallpapers.com/Walls/Big/Nature%20and%20Landscape/Beautiful_Sunrising_Nature_Image.jpg'),
+            image: AssetImage(
+              'assets/diamond.png',
+            ),
           ),
         ),
       ),
