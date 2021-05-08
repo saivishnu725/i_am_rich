@@ -8,14 +8,14 @@ Step 1a -
 
 ```bash
 # To clone using HTTP
-git clone https://github.com/saivishnu725/i_am_rich.git
+git clone https://github.com/Angela-Yu-Course/i_am_rich.git
 ```
 
 Step 1b -
 
 ```bash
 # To clone using ssh
-git clone git@github.com:saivishnu725/i_am_rich.git
+git clone git@github.com:Angela-Yu-Courses/i_am_rich.git
 ```
 
 Step 2 -
